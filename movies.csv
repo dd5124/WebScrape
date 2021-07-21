@@ -1,0 +1,1001 @@
+rank,title,year,length,genre,director,rating
+1,The Shawshank Redemption,1994,142,Drama,Frank Darabont,9.3
+2,The Godfather,1972,175,"Crime,Drama",Francis Ford Coppola,9.2
+3,Soorarai Pottru,2020,153,Drama,Sudha Kongara,9.1
+4,The Dark Knight,2008,152,"Action,Crime,Drama",Christopher Nolan,9
+5,The Godfather: Part II,1974,202,"Crime,Drama",Francis Ford Coppola,9
+6,12 Angry Men,1957,96,"Crime,Drama",Sidney Lumet,9
+7,Dara iz Jasenovca,2020,130,"Drama,War",Predrag Antonijevic,8.9
+8,The Lord of the Rings: The Return of the King,2003,201,"Action,Adventure,Drama",Peter Jackson,8.9
+9,Pulp Fiction,1994,154,"Crime,Drama",Quentin Tarantino,8.9
+10,Schindler's List,1993,195,"Biography,Drama,History",Steven Spielberg,8.9
+11,Inception,2010,148,"Action,Adventure,Sci-Fi",Christopher Nolan,8.8
+12,Fight Club,1999,139,Drama,David Fincher,8.8
+13,The Lord of the Rings: The Fellowship of the Ring,2001,178,"Action,Adventure,Drama",Peter Jackson,8.8
+14,Forrest Gump,1994,142,"Drama,Romance",Robert Zemeckis,8.8
+15,"Il buono, il brutto, il cattivo",1966,161,Western,Sergio Leone,8.8
+16,The Lord of the Rings: The Two Towers,2002,179,"Action,Adventure,Drama",Peter Jackson,8.7
+17,The Matrix,1999,136,"Action,Sci-Fi",Lana Wachowski,8.7
+18,Goodfellas,1990,146,"Biography,Crime,Drama",Martin Scorsese,8.7
+19,Star Wars: Episode V - The Empire Strikes Back,1980,124,"Action,Adventure,Fantasy",Irvin Kershner,8.7
+20,One Flew Over the Cuckoo's Nest,1975,133,Drama,Milos Forman,8.7
+21,Gisaengchung,2019,132,"Comedy,Drama,Thriller",Bong Joon Ho,8.6
+22,Drishyam 2,2021,152,"Crime,Drama,Thriller",Jeethu Joseph,8.6
+23,Interstellar,2014,169,"Adventure,Drama,Sci-Fi",Christopher Nolan,8.6
+24,Cidade de Deus,2002,130,"Crime,Drama",Fernando Meirelles,8.6
+25,Sen to Chihiro no kamikakushi,2001,125,"Animation,Adventure,Family",Hayao Miyazaki,8.6
+26,Saving Private Ryan,1998,169,"Drama,War",Steven Spielberg,8.6
+27,The Green Mile,1999,189,"Crime,Drama,Fantasy",Frank Darabont,8.6
+28,La vita è bella,1997,116,"Comedy,Drama,Romance",Roberto Benigni,8.6
+29,Se7en,1995,127,"Crime,Drama,Mystery",David Fincher,8.6
+30,The Silence of the Lambs,1991,118,"Crime,Drama,Thriller",Jonathan Demme,8.6
+31,Star Wars,1977,121,"Action,Adventure,Fantasy",George Lucas,8.6
+32,Seppuku,1962,133,"Action,Drama,Mystery",Masaki Kobayashi,8.6
+33,Shichinin no samurai,1954,207,"Action,Adventure,Drama",Akira Kurosawa,8.6
+34,It's a Wonderful Life,1946,130,"Drama,Family,Fantasy",Frank Capra,8.6
+35,Ratsasan,2018,170,"Action,Crime,Mystery",Ram Kumar,8.5
+36,Whiplash,2014,106,"Drama,Music",Damien Chazelle,8.5
+37,The Intouchables,2011,112,"Biography,Comedy,Drama",Olivier Nakache,8.5
+38,The Prestige,2006,130,"Drama,Mystery,Sci-Fi",Christopher Nolan,8.5
+39,The Departed,2006,151,"Crime,Drama,Thriller",Martin Scorsese,8.5
+40,The Pianist,2002,150,"Biography,Drama,Music",Roman Polanski,8.5
+41,Gladiator,2000,155,"Action,Adventure,Drama",Ridley Scott,8.5
+42,American History X,1998,119,Drama,Tony Kaye,8.5
+43,The Usual Suspects,1995,106,"Crime,Mystery,Thriller",Bryan Singer,8.5
+44,Léon,1994,110,"Action,Crime,Drama",Luc Besson,8.5
+45,The Lion King,1994,88,"Animation,Adventure,Drama",Roger Allers,8.5
+46,Terminator 2: Judgment Day,1991,137,"Action,Sci-Fi",James Cameron,8.5
+47,Nuovo Cinema Paradiso,1988,155,"Drama,Romance",Giuseppe Tornatore,8.5
+48,Hotaru no haka,1988,89,"Animation,Drama,War",Isao Takahata,8.5
+49,Back to the Future,1985,116,"Adventure,Comedy,Sci-Fi",Robert Zemeckis,8.5
+50,Once Upon a Time in the West,1968,165,Western,Sergio Leone,8.5
+51,Psycho,1960,109,"Horror,Mystery,Thriller",Alfred Hitchcock,8.5
+52,Pather Panchali,1955,125,Drama,Satyajit Ray,8.5
+53,Rear Window,1954,112,"Mystery,Thriller",Alfred Hitchcock,8.5
+54,Casablanca,1942,102,"Drama,Romance,War",Michael Curtiz,8.5
+55,Modern Times,1936,87,"Comedy,Drama,Family",Charles Chaplin,8.5
+56,City Lights,1931,87,"Comedy,Drama,Romance",Charles Chaplin,8.5
+57,Hamilton,2020,160,"Biography,Drama,History",Thomas Kail,8.4
+58,Capharnaüm,2018,126,Drama,Nadine Labaki,8.4
+59,Joker,2019,122,"Crime,Drama,Thriller",Todd Phillips,8.4
+60,Ayla: The Daughter of War,2017,125,"Biography,Drama,History",Can Ulkay,8.4
+61,Vikram Vedha,2017,147,"Action,Crime,Drama",Gayatri,8.4
+62,Kimi no na wa.,2016,106,"Animation,Drama,Fantasy",Makoto Shinkai,8.4
+63,Dangal,2016,161,"Action,Biography,Drama",Nitesh Tiwari,8.4
+64,Spider-Man: Into the Spider-Verse,2018,117,"Animation,Action,Adventure",Bob Persichetti,8.4
+65,Avengers: Endgame,2019,181,"Action,Adventure,Drama",Anthony Russo,8.4
+66,Avengers: Infinity War,2018,149,"Action,Adventure,Sci-Fi",Anthony Russo,8.4
+67,Coco,I 2017,105,"Animation,Adventure,Drama",Lee Unkrich,8.4
+68,Django Unchained,2012,165,"Drama,Western",Quentin Tarantino,8.4
+69,The Dark Knight Rises,2012,164,"Action,Adventure",Christopher Nolan,8.4
+70,3 Idiots,2009,170,"Comedy,Drama",Rajkumar Hirani,8.4
+71,Taare Zameen Par,2007,165,"Drama,Family",Aamir Khan,8.4
+72,WALL·E,2008,98,"Animation,Adventure,Family",Andrew Stanton,8.4
+73,The Lives of Others,2006,137,"Drama,Mystery,Thriller",Florian Henckel von Donnersmarck,8.4
+74,Oldeuboi,2003,120,"Action,Drama,Mystery",Park Chan-Wook,8.4
+75,Memento,2000,113,"Mystery,Thriller",Christopher Nolan,8.4
+76,Mononoke-hime,1997,134,"Animation,Action,Adventure",Hayao Miyazaki,8.4
+77,Once Upon a Time in America,1984,229,"Crime,Drama",Sergio Leone,8.4
+78,Raiders of the Lost Ark,1981,115,"Action,Adventure",Steven Spielberg,8.4
+79,The Shining,1980,146,"Drama,Horror",Stanley Kubrick,8.4
+80,Apocalypse Now,1979,147,"Drama,Mystery,War",Francis Ford Coppola,8.4
+81,Alien,1979,117,"Horror,Sci-Fi",Ridley Scott,8.4
+82,Tengoku to jigoku,1963,143,"Crime,Drama,Mystery",Akira Kurosawa,8.4
+83,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,Comedy,Stanley Kubrick,8.4
+84,Witness for the Prosecution,1957,116,"Crime,Drama,Mystery",Billy Wilder,8.4
+85,Paths of Glory,1957,88,"Drama,War",Stanley Kubrick,8.4
+86,Sunset Blvd.,1950,110,"Drama,Film-Noir",Billy Wilder,8.4
+87,The Great Dictator,1940,125,"Comedy,Drama,War",Charles Chaplin,8.4
+88,Chhichhore,2019,143,"Comedy,Drama,Romance",Nitesh Tiwari,8.3
+89,1917,2019,119,"Drama,Thriller,War",Sam Mendes,8.3
+90,Tumbbad,2018,104,"Drama,Fantasy,Horror",Rahi Anil Barve,8.3
+91,K.G.F: Chapter 1,2018,156,"Action,Crime,Drama",Prashanth Neel,8.3
+92,Drishyam,2013,160,"Crime,Drama,Thriller",Jeethu Joseph,8.3
+93,Jagten,2012,115,Drama,Thomas Vinterberg,8.3
+94,Jodaeiye Nader az Simin,2011,123,Drama,Asghar Farhadi,8.3
+95,Incendies,2010,130,"Drama,Mystery,War",Denis Villeneuve,8.3
+96,Kimetsu no Yaiba: Mugen Ressha-Hen,2020,117,"Animation,Action,Adventure",Haruo Sotozaki,8.3
+97,The Father,I 2020,97,Drama,Florian Zeller,8.3
+98,Babam ve Oglum,2005,112,"Drama,Family",Cagan Irmak,8.3
+99,Inglourious Basterds,2009,153,"Adventure,Drama,War",Quentin Tarantino,8.3
+100,Eternal Sunshine of the Spotless Mind,2004,108,"Drama,Romance,Sci-Fi",Michel Gondry,8.3
+101,Le fabuleux destin d'Amélie Poulain,2001,122,"Comedy,Romance",Jean-Pierre Jeunet,8.3
+102,Snatch,2000,104,"Comedy,Crime",Guy Ritchie,8.3
+103,Requiem for a Dream,2000,102,Drama,Darren Aronofsky,8.3
+104,American Beauty,1999,122,Drama,Sam Mendes,8.3
+105,Good Will Hunting,1997,126,"Drama,Romance",Gus Van Sant,8.3
+106,Bacheha-Ye aseman,1997,89,"Drama,Family,Sport",Majid Majidi,8.3
+107,Toy Story,1995,81,"Animation,Adventure,Comedy",John Lasseter,8.3
+108,Braveheart,1995,178,"Biography,Drama,History",Mel Gibson,8.3
+109,Reservoir Dogs,1992,99,"Crime,Drama,Thriller",Quentin Tarantino,8.3
+110,Full Metal Jacket,1987,116,"Drama,War",Stanley Kubrick,8.3
+111,Idi i smotri,1985,142,"Drama,Thriller,War",Elem Klimov,8.3
+112,Aliens,1986,137,"Action,Adventure,Sci-Fi",James Cameron,8.3
+113,Amadeus,1984,160,"Biography,Drama,History",Milos Forman,8.3
+114,Scarface,1983,170,"Crime,Drama",Brian De Palma,8.3
+115,Star Wars: Episode VI - Return of the Jedi,1983,131,"Action,Adventure,Fantasy",Richard Marquand,8.3
+116,Das Boot,1981,149,"Adventure,Drama,Thriller",Wolfgang Petersen,8.3
+117,Taxi Driver,1976,114,"Crime,Drama",Martin Scorsese,8.3
+118,The Sting,1973,129,"Comedy,Crime,Drama",George Roy Hill,8.3
+119,A Clockwork Orange,1971,136,"Crime,Drama,Sci-Fi",Stanley Kubrick,8.3
+120,Anand,1971,122,"Drama,Musical",Hrishikesh Mukherjee,8.3
+121,2001: A Space Odyssey,1968,149,"Adventure,Sci-Fi",Stanley Kubrick,8.3
+122,To Kill a Mockingbird,1962,129,"Crime,Drama",Robert Mulligan,8.3
+123,Lawrence of Arabia,1962,228,"Adventure,Biography,Drama",David Lean,8.3
+124,The Apartment,1960,125,"Comedy,Drama,Romance",Billy Wilder,8.3
+125,North by Northwest,1959,136,"Adventure,Mystery,Thriller",Alfred Hitchcock,8.3
+126,Vertigo,1958,128,"Mystery,Romance,Thriller",Alfred Hitchcock,8.3
+127,Singin' in the Rain,1952,103,"Comedy,Musical,Romance",Stanley Donen,8.3
+128,Ikiru,1952,143,Drama,Akira Kurosawa,8.3
+129,Ladri di biciclette,1948,89,Drama,Vittorio De Sica,8.3
+130,Double Indemnity,1944,107,"Crime,Drama,Film-Noir",Billy Wilder,8.3
+131,Citizen Kane,1941,119,"Drama,Mystery",Orson Welles,8.3
+132,M - Eine Stadt sucht einen Mörder,1931,117,"Crime,Mystery,Thriller",Fritz Lang,8.3
+133,Metropolis,1927,153,"Drama,Sci-Fi",Fritz Lang,8.3
+134,The Kid,1921,68,"Comedy,Drama,Family",Charles Chaplin,8.3
+135,Uri: The Surgical Strike,2018,138,"Action,Drama,War",Aditya Dhar,8.2
+136,Andhadhun,2018,139,"Crime,Drama,Music",Sriram Raghavan,8.2
+137,Green Book,2018,130,"Biography,Comedy,Drama",Peter Farrelly,8.2
+138,Koe no katachi,2016,130,"Animation,Drama,Romance",Naoko Yamada,8.2
+139,Talvar,2015,132,"Crime,Drama,Mystery",Meghna Gulzar,8.2
+140,Baahubali 2: The Conclusion,2017,167,"Action,Drama",S.S. Rajamouli,8.2
+141,Klaus,2019,96,"Animation,Adventure,Comedy",Sergio Pablos,8.2
+142,Masaan,2015,109,Drama,Neeraj Ghaywan,8.2
+143,Drishyam,2015,163,"Crime,Drama,Mystery",Nishikant Kamat,8.2
+144,Queen,2013,146,"Adventure,Comedy,Drama",Vikas Bahl,8.2
+145,Mandariinid,2013,87,"Drama,War",Zaza Urushadze,8.2
+146,Bhaag Milkha Bhaag,2013,186,"Biography,Drama,Sport",Rakeysh Omprakash Mehra,8.2
+147,Gangs of Wasseypur,2012,321,"Action,Comedy,Crime",Anurag Kashyap,8.2
+148,Udaan,2010,134,Drama,Vikramaditya Motwane,8.2
+149,Paan Singh Tomar,2012,135,"Action,Biography,Crime",Tigmanshu Dhulia,8.2
+150,Zindagi Na Milegi Dobara,2011,155,"Comedy,Drama",Zoya Akhtar,8.2
+151,El secreto de sus ojos,2009,129,"Drama,Mystery,Romance",Juan José Campanella,8.2
+152,Shutter Island,2010,138,"Mystery,Thriller",Martin Scorsese,8.2
+153,Up,2009,96,"Animation,Adventure,Comedy",Pete Docter,8.2
+154,Miracle in Cell No. 7,2019,132,Drama,Mehmet Ada Öztekin,8.2
+155,Article 15,2019,130,"Crime,Drama,Mystery",Anubhav Sinha,8.2
+156,The Wolf of Wall Street,2013,180,"Biography,Crime,Drama",Martin Scorsese,8.2
+157,Chak De! India,2007,153,"Drama,Family,Sport",Shimit Amin,8.2
+158,There Will Be Blood,2007,158,Drama,Paul Thomas Anderson,8.2
+159,Pan's Labyrinth,2006,118,"Drama,Fantasy,War",Guillermo del Toro,8.2
+160,Toy Story 3,2010,103,"Animation,Adventure,Comedy",Lee Unkrich,8.2
+161,Black,2005,122,Drama,Sanjay Leela Bhansali,8.2
+162,Batman Begins,2005,140,"Action,Adventure",Christopher Nolan,8.2
+163,"Swades: We, the People",2004,210,Drama,Ashutosh Gowariker,8.2
+164,Der Untergang,2004,156,"Biography,Drama,History",Oliver Hirschbiegel,8.2
+165,Hauru no ugoku shiro,2004,119,"Animation,Adventure,Family",Hayao Miyazaki,8.2
+166,A Beautiful Mind,2001,135,"Biography,Drama",Ron Howard,8.2
+167,Hera Pheri,2000,156,"Action,Comedy,Crime",Priyadarshan,8.2
+168,"Lock, Stock and Two Smoking Barrels",1998,107,"Action,Comedy,Crime",Guy Ritchie,8.2
+169,L.A. Confidential,1997,138,"Crime,Drama,Mystery",Curtis Hanson,8.2
+170,Eskiya,1996,128,"Crime,Drama,Thriller",Yavuz Turgul,8.2
+171,Heat,1995,170,"Crime,Drama,Thriller",Michael Mann,8.2
+172,Casino,1995,178,"Crime,Drama",Martin Scorsese,8.2
+173,Unforgiven,1992,130,"Drama,Western",Clint Eastwood,8.2
+174,Indiana Jones and the Last Crusade,1989,127,"Action,Adventure",Steven Spielberg,8.2
+175,Dom za vesanje,1988,142,"Comedy,Crime,Drama",Emir Kusturica,8.2
+176,Tonari no Totoro,1988,86,"Animation,Family,Fantasy",Hayao Miyazaki,8.2
+177,Die Hard,1988,132,"Action,Thriller",John McTiernan,8.2
+178,Ran,1985,162,"Action,Drama,War",Akira Kurosawa,8.2
+179,Raging Bull,1980,129,"Biography,Drama,Sport",Martin Scorsese,8.2
+180,Höstsonaten,1978,99,"Drama,Music",Ingmar Bergman,8.2
+181,The Message,1976,177,"Biography,Drama,History",Moustapha Akkad,8.2
+182,Sholay,1975,204,"Action,Adventure,Comedy",Ramesh Sippy,8.2
+183,Monty Python and the Holy Grail,1975,91,"Adventure,Comedy,Fantasy",Terry Gilliam,8.2
+184,Chinatown,1974,130,"Drama,Mystery,Thriller",Roman Polanski,8.2
+185,Per qualche dollaro in più,1965,132,Western,Sergio Leone,8.2
+186,The Great Escape,1963,172,"Adventure,Drama,History",John Sturges,8.2
+187,Yôjinbô,1961,110,"Action,Drama,Thriller",Akira Kurosawa,8.2
+188,Judgment at Nuremberg,1961,179,"Drama,War",Stanley Kramer,8.2
+189,Some Like It Hot,1959,121,"Comedy,Music,Romance",Billy Wilder,8.2
+190,Smultronstället,1957,91,"Drama,Romance",Ingmar Bergman,8.2
+191,Det sjunde inseglet,1957,96,"Drama,Fantasy,History",Ingmar Bergman,8.2
+192,Dial M for Murder,1954,105,"Crime,Thriller",Alfred Hitchcock,8.2
+193,Tôkyô monogatari,1953,136,Drama,Yasujirô Ozu,8.2
+194,Rashômon,1950,88,"Crime,Drama,Mystery",Akira Kurosawa,8.2
+195,All About Eve,1950,138,Drama,Joseph L. Mankiewicz,8.2
+196,The Treasure of the Sierra Madre,1948,126,"Adventure,Drama,Western",John Huston,8.2
+197,To Be or Not to Be,1942,99,"Comedy,Romance,War",Ernst Lubitsch,8.2
+198,The Gold Rush,1925,95,"Adventure,Comedy,Drama",Charles Chaplin,8.2
+199,Sherlock Jr.,1924,45,"Action,Comedy,Romance",Buster Keaton,8.2
+200,Portrait de la jeune fille en feu,2019,122,"Drama,Romance",Céline Sciamma,8.1
+201,Pink,III 2016,136,"Crime,Drama,Thriller",Aniruddha Roy Chowdhury,8.1
+202,"Three Billboards Outside Ebbing, Missouri",2017,115,"Comedy,Crime,Drama",Martin McDonagh,8.1
+203,Contratiempo,2016,106,"Crime,Drama,Mystery",Oriol Paulo,8.1
+204,Ah-ga-ssi,2016,145,"Drama,Romance,Thriller",Park Chan-Wook,8.1
+205,Mommy,I 2014,139,Drama,Xavier Dolan,8.1
+206,Haider,2014,160,"Action,Crime,Drama",Vishal Bhardwaj,8.1
+207,Logan,2017,137,"Action,Drama,Sci-Fi",James Mangold,8.1
+208,Room,I 2015,118,"Drama,Thriller",Lenny Abrahamson,8.1
+209,Relatos salvajes,2014,122,"Comedy,Drama,Thriller",Damián Szifron,8.1
+210,Soul,2020,100,"Animation,Adventure,Comedy",Pete Docter,8.1
+211,Kis Uykusu,2014,196,Drama,Nuri Bilge Ceylan,8.1
+212,PK,2014,153,"Comedy,Drama,Musical",Rajkumar Hirani,8.1
+213,OMG: Oh My God!,2012,125,"Comedy,Drama,Fantasy",Umesh Shukla,8.1
+214,The Grand Budapest Hotel,2014,99,"Adventure,Comedy,Crime",Wes Anderson,8.1
+215,Gone Girl,2014,149,"Drama,Mystery,Thriller",David Fincher,8.1
+216,Ôkami kodomo no Ame to Yuki,2012,117,"Animation,Drama,Fantasy",Mamoru Hosoda,8.1
+217,Hacksaw Ridge,2016,139,"Biography,Drama,History",Mel Gibson,8.1
+218,Inside Out,I 2015,95,"Animation,Adventure,Comedy",Pete Docter,8.1
+219,Barfi!,2012,151,"Comedy,Drama,Romance",Anurag Basu,8.1
+220,12 Years a Slave,2013,134,"Biography,Drama,History",Steve McQueen,8.1
+221,Rush,I 2013,123,"Action,Biography,Drama",Ron Howard,8.1
+222,Ford v Ferrari,2019,152,"Action,Biography,Drama",James Mangold,8.1
+223,Spotlight,I 2015,129,"Biography,Crime,Drama",Tom McCarthy,8.1
+224,Song of the Sea,2014,93,"Animation,Adventure,Drama",Tomm Moore,8.1
+225,Kahaani,2012,122,"Mystery,Thriller",Sujoy Ghosh,8.1
+226,Prisoners,2013,153,"Crime,Drama,Mystery",Denis Villeneuve,8.1
+227,Mad Max: Fury Road,2015,120,"Action,Adventure,Sci-Fi",George Miller,8.1
+228,Warrior,2011,140,"Action,Drama,Sport",Gavin O'Connor,8.1
+229,A Wednesday,2008,104,"Action,Crime,Drama",Neeraj Pandey,8.1
+230,Zack Snyder's Justice League,2021,242,"Action,Adventure,Fantasy",Zack Snyder,8.1
+231,Gran Torino,2008,116,Drama,Clint Eastwood,8.1
+232,Harry Potter and the Deathly Hallows: Part 2,2011,130,"Adventure,Drama,Fantasy",David Yates,8.1
+233,Okuribito,2008,130,"Drama,Music",Yôjirô Takita,8.1
+234,Hachi: A Dog's Tale,2009,93,"Biography,Drama,Family",Lasse Hallström,8.1
+235,Mary and Max.,2009,92,"Animation,Comedy,Drama",Adam Elliot,8.1
+236,How to Train Your Dragon,2010,98,"Animation,Action,Adventure",Dean DeBlois,8.1
+237,Into the Wild,2007,148,"Adventure,Biography,Drama",Sean Penn,8.1
+238,No Country for Old Men,2007,122,"Crime,Drama,Thriller",Ethan Coen,8.1
+239,V for Vendetta,2005,132,"Action,Drama,Sci-Fi",James McTeigue,8.1
+240,Dare mo shiranai,2004,141,Drama,Hirokazu Koreeda,8.1
+241,Rang De Basanti,2006,167,"Comedy,Crime,Drama",Rakeysh Omprakash Mehra,8.1
+242,Million Dollar Baby,2004,132,"Drama,Sport",Clint Eastwood,8.1
+243,Hotel Rwanda,2004,121,"Biography,Drama,History",Terry George,8.1
+244,Before Sunset,2004,80,"Drama,Romance",Richard Linklater,8.1
+245,Munna Bhai M.B.B.S.,2003,156,"Comedy,Drama",Rajkumar Hirani,8.1
+246,Salinui chueok,2003,131,"Crime,Drama,Mystery",Bong Joon Ho,8.1
+247,Dil Chahta Hai,2001,183,"Comedy,Drama,Romance",Farhan Akhtar,8.1
+248,Kill Bill: Vol. 1,2003,111,"Action,Crime,Drama",Quentin Tarantino,8.1
+249,Finding Nemo,2003,100,"Animation,Adventure,Comedy",Andrew Stanton,8.1
+250,Catch Me If You Can,2002,141,"Biography,Crime,Drama",Steven Spielberg,8.1
+251,Amores perros,2000,154,"Drama,Thriller",Alejandro G. Iñárritu,8.1
+252,"Monsters, Inc.",2001,92,"Animation,Adventure,Comedy",Pete Docter,8.1
+253,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1997,87,"Animation,Action,Drama",Hideaki Anno,8.1
+254,Lagaan: Once Upon a Time in India,2001,224,"Drama,Musical,Sport",Ashutosh Gowariker,8.1
+255,The Sixth Sense,1999,107,"Drama,Mystery,Thriller",M. Night Shyamalan,8.1
+256,Festen,1998,105,Drama,Thomas Vinterberg,8.1
+257,La leggenda del pianista sull'oceano,1998,169,"Drama,Music,Romance",Giuseppe Tornatore,8.1
+258,The Truman Show,1998,103,"Comedy,Drama",Peter Weir,8.1
+259,"Crna macka, beli macor",1998,127,"Comedy,Crime,Romance",Emir Kusturica,8.1
+260,The Big Lebowski,1998,117,"Comedy,Crime,Sport",Joel Coen,8.1
+261,Fa yeung nin wah,2000,98,"Drama,Romance",Kar-Wai Wong,8.1
+262,Trainspotting,1996,93,Drama,Danny Boyle,8.1
+263,Fargo,1996,98,"Crime,Drama,Thriller",Joel Coen,8.1
+264,Underground,1995,170,"Comedy,Drama,Fantasy",Emir Kusturica,8.1
+265,La haine,1995,98,"Crime,Drama",Mathieu Kassovitz,8.1
+266,Dilwale Dulhania Le Jayenge,1995,189,"Drama,Romance",Aditya Chopra,8.1
+267,Before Sunrise,1995,101,"Drama,Romance",Richard Linklater,8.1
+268,Trois couleurs: Rouge,1994,99,"Drama,Mystery,Romance",Krzysztof Kieslowski,8.1
+269,Chung Hing sam lam,1994,102,"Comedy,Crime,Drama",Kar-Wai Wong,8.1
+270,Andaz Apna Apna,1994,160,"Action,Comedy,Romance",Rajkumar Santoshi,8.1
+271,Jurassic Park,1993,127,"Action,Adventure,Sci-Fi",Steven Spielberg,8.1
+272,In the Name of the Father,1993,133,"Biography,Crime,Drama",Jim Sheridan,8.1
+273,Ba wang bie ji,1993,171,"Drama,Music,Romance",Kaige Chen,8.1
+274,Dà hóng denglong gaogao guà,1991,125,"Drama,History,Romance",Yimou Zhang,8.1
+275,Dead Poets Society,1989,128,"Comedy,Drama",Peter Weir,8.1
+276,The Princess Bride,1987,98,"Adventure,Family,Fantasy",Rob Reiner,8.1
+277,Stand by Me,1986,89,"Adventure,Drama",Rob Reiner,8.1
+278,Platoon,1986,120,"Drama,War",Oliver Stone,8.1
+279,Sacrifice,1986,149,Drama,Andrei Tarkovsky,8.1
+280,"Paris, Texas",1984,145,Drama,Wim Wenders,8.1
+281,Kaze no tani no Naushika,1984,117,"Animation,Adventure,Fantasy",Hayao Miyazaki,8.1
+282,The Thing,1982,109,"Horror,Mystery,Sci-Fi",John Carpenter,8.1
+283,Fitzcarraldo,1982,158,"Adventure,Drama",Werner Herzog,8.1
+284,Fanny och Alexander,1982,188,Drama,Ingmar Bergman,8.1
+285,Blade Runner,1982,117,"Action,Sci-Fi,Thriller",Ridley Scott,8.1
+286,The Elephant Man,1980,124,"Biography,Drama",David Lynch,8.1
+287,Stalker,1979,162,"Drama,Sci-Fi",Andrei Tarkovsky,8.1
+288,Life of Brian,1979,94,Comedy,Terry Jones,8.1
+289,The Deer Hunter,1978,183,"Drama,War",Michael Cimino,8.1
+290,Rocky,1976,120,"Drama,Sport",John G. Avildsen,8.1
+291,Network,1976,121,Drama,Sidney Lumet,8.1
+292,Barry Lyndon,1975,185,"Adventure,Drama,History",Stanley Kubrick,8.1
+293,Zerkalo,1975,107,"Biography,Drama",Andrei Tarkovsky,8.1
+294,Paper Moon,1973,102,"Comedy,Crime,Drama",Peter Bogdanovich,8.1
+295,Viskningar och rop,1972,91,Drama,Ingmar Bergman,8.1
+296,Solaris,1972,167,"Drama,Mystery,Sci-Fi",Andrei Tarkovsky,8.1
+297,Le samouraï,1967,105,"Crime,Drama,Mystery",Jean-Pierre Melville,8.1
+298,Cool Hand Luke,1967,127,"Crime,Drama",Stuart Rosenberg,8.1
+299,Persona,1966,85,"Drama,Thriller",Ingmar Bergman,8.1
+300,Andrei Rublev,1966,205,"Biography,Drama,History",Andrei Tarkovsky,8.1
+301,La battaglia di Algeri,1966,121,"Drama,War",Gillo Pontecorvo,8.1
+302,El ángel exterminador,1962,95,"Drama,Fantasy",Luis Buñuel,8.1
+303,What Ever Happened to Baby Jane?,1962,134,"Drama,Horror,Thriller",Robert Aldrich,8.1
+304,Sanjuro,1962,96,"Action,Comedy,Crime",Akira Kurosawa,8.1
+305,The Man Who Shot Liberty Valance,1962,123,"Drama,Western",John Ford,8.1
+306,Ivanovo detstvo,1962,95,"Drama,War",Andrei Tarkovsky,8.1
+307,Jungfrukällan,1960,89,Drama,Ingmar Bergman,8.1
+308,Inherit the Wind,1960,128,"Biography,Drama,History",Stanley Kramer,8.1
+309,Les quatre cents coups,1959,99,"Crime,Drama",François Truffaut,8.1
+310,Ben-Hur,1959,212,"Adventure,Drama,History",William Wyler,8.1
+311,Kakushi-toride no san-akunin,1958,139,"Adventure,Drama",Akira Kurosawa,8.1
+312,Le notti di Cabiria,1957,110,Drama,Federico Fellini,8.1
+313,Kumonosu-jô,1957,110,"Drama,History",Akira Kurosawa,8.1
+314,The Bridge on the River Kwai,1957,161,"Adventure,Drama,War",David Lean,8.1
+315,Du rififi chez les hommes,1955,118,"Crime,Drama,Thriller",Jules Dassin,8.1
+316,On the Waterfront,1954,108,"Crime,Drama,Thriller",Elia Kazan,8.1
+317,Les diaboliques,1955,117,"Crime,Drama,Horror",Henri-Georges Clouzot,8.1
+318,Le salaire de la peur,1953,131,"Adventure,Drama,Thriller",Henri-Georges Clouzot,8.1
+319,Ace in the Hole,1951,111,"Drama,Film-Noir",Billy Wilder,8.1
+320,White Heat,1949,114,"Action,Crime,Drama",Raoul Walsh,8.1
+321,The Third Man,1949,104,"Film-Noir,Mystery,Thriller",Carol Reed,8.1
+322,The Red Shoes,1948,135,"Drama,Music,Romance",Michael Powell,8.1
+323,The Best Years of Our Lives,1946,170,"Drama,Romance,War",William Wyler,8.1
+324,The Shop Around the Corner,1940,99,"Comedy,Drama,Romance",Ernst Lubitsch,8.1
+325,Rebecca,1940,130,"Drama,Mystery,Romance",Alfred Hitchcock,8.1
+326,The Grapes of Wrath,1940,129,"Drama,History",John Ford,8.1
+327,Mr. Smith Goes to Washington,1939,129,"Comedy,Drama",Frank Capra,8.1
+328,Gone with the Wind,1939,238,"Drama,History,Romance",Victor Fleming,8.1
+329,La Grande Illusion,1937,113,"Drama,War",Jean Renoir,8.1
+330,It Happened One Night,1934,105,"Comedy,Romance",Frank Capra,8.1
+331,All Quiet on the Western Front,1930,152,"Drama,War",Lewis Milestone,8.1
+332,La passion de Jeanne d'Arc,1928,110,"Biography,Drama,History",Carl Theodor Dreyer,8.1
+333,The Circus,1928,72,"Comedy,Romance",Charles Chaplin,8.1
+334,Sunrise: A Song of Two Humans,1927,94,"Drama,Romance",F.W. Murnau,8.1
+335,The General,1926,67,"Action,Adventure,Comedy",Clyde Bruckman,8.1
+336,Das Cabinet des Dr. Caligari,1920,76,"Fantasy,Horror,Mystery",Robert Wiene,8.1
+337,Badhaai ho,2018,124,"Comedy,Drama",Amit Ravindernath Sharma,8
+338,Togo,2019,113,"Adventure,Biography,Drama",Ericson Core,8
+339,Airlift,2016,130,"Drama,History",Raja Menon,8
+340,Bajrangi Bhaijaan,2015,163,"Action,Adventure,Comedy",Kabir Khan,8
+341,Baby,I 2015,159,"Action,Thriller",Neeraj Pandey,8
+342,La La Land,2016,128,"Comedy,Drama,Music",Damien Chazelle,8
+343,Lion,2016,118,"Biography,Drama",Garth Davis,8
+344,The Martian,2015,144,"Adventure,Drama,Sci-Fi",Ridley Scott,8
+345,Zootopia,2016,108,"Animation,Adventure,Comedy",Byron Howard,8
+346,Bãhubali: The Beginning,2015,159,"Action,Drama",S.S. Rajamouli,8
+347,Kaguyahime no monogatari,2013,137,"Animation,Adventure,Drama",Isao Takahata,8
+348,Wonder,I 2017,113,"Drama,Family",Stephen Chbosky,8
+349,Gully Boy,2019,154,"Drama,Music,Romance",Zoya Akhtar,8
+350,Special Chabbis,2013,144,"Crime,Drama,Thriller",Neeraj Pandey,8
+351,Short Term 12,2013,96,Drama,Destin Daniel Cretton,8
+352,Serbuan maut 2: Berandal,2014,150,"Action,Crime,Thriller",Gareth Evans,8
+353,The Imitation Game,2014,114,"Biography,Drama,Thriller",Morten Tyldum,8
+354,Guardians of the Galaxy,2014,121,"Action,Adventure,Comedy",James Gunn,8
+355,Blade Runner 2049,2017,164,"Action,Drama,Mystery",Denis Villeneuve,8
+356,Her,2013,126,"Drama,Romance,Sci-Fi",Spike Jonze,8
+357,The Revenant,2015,156,"Action,Adventure,Drama",Alejandro G. Iñárritu,8
+358,Tropa de Elite 2: O Inimigo Agora é Outro,2010,115,"Action,Crime,Drama",José Padilha,8
+359,The King's Speech,2010,118,"Biography,Drama,History",Tom Hooper,8
+360,The Help,2011,146,Drama,Tate Taylor,8
+361,Deadpool,2016,108,"Action,Adventure,Comedy",Tim Miller,8
+362,Darbareye Elly,2009,119,"Drama,Mystery",Asghar Farhadi,8
+363,Dev.D,2009,144,"Drama,Romance",Anurag Kashyap,8
+364,Ip Man,2008,106,"Action,Biography,Drama",Wilson Yip,8
+365,My Name Is Khan,2010,165,Drama,Karan Johar,8
+366,Vals Im Bashir,2008,90,"Animation,Biography,Drama",Ari Folman,8
+367,Nefes: Vatan Sagolsun,2009,128,"Action,Drama,Thriller",Levent Semerci,8
+368,Slumdog Millionaire,2008,120,"Drama,Romance",Danny Boyle,8
+369,Black Swan,2010,108,"Drama,Thriller",Darren Aronofsky,8
+370,Tropa de Elite,2007,115,"Action,Crime,Drama",José Padilha,8
+371,The Avengers,2012,143,"Action,Adventure,Sci-Fi",Joss Whedon,8
+372,Persepolis,2007,96,"Animation,Biography,Drama",Vincent Paronnaud,8
+373,Dallas Buyers Club,2013,117,"Biography,Drama",Jean-Marc Vallée,8
+374,Lage Raho Munna Bhai,2006,144,"Comedy,Drama,Romance",Rajkumar Hirani,8
+375,The Pursuit of Happyness,2006,117,"Biography,Drama",Gabriele Muccino,8
+376,Blood Diamond,2006,143,"Adventure,Drama,Thriller",Edward Zwick,8
+377,The Bourne Ultimatum,2007,115,"Action,Mystery,Thriller",Paul Greengrass,8
+378,Bin-jip,2004,88,"Crime,Drama,Romance",Kim Ki-duk,8
+379,Sin City,2005,124,"Crime,Thriller",Frank Miller,8
+380,Le scaphandre et le papillon,2007,112,"Biography,Drama",Julian Schnabel,8
+381,Taegukgi hwinalrimyeo,2004,140,"Action,Drama,War",Je-kyu Kang,8
+382,G.O.R.A.,2004,127,"Adventure,Comedy,Sci-Fi",Ömer Faruk Sorak,8
+383,Ratatouille,2007,111,"Animation,Adventure,Comedy",Brad Bird,8
+384,Casino Royale,2006,144,"Action,Adventure,Thriller",Martin Campbell,8
+385,Kill Bill: Vol. 2,2004,137,"Action,Crime,Thriller",Quentin Tarantino,8
+386,Vozvrashchenie,2003,110,Drama,Andrey Zvyagintsev,8
+387,Bom yeoreum gaeul gyeoul geurigo bom,2003,103,"Drama,Romance",Kim Ki-duk,8
+388,Mar adentro,I 2004,126,"Biography,Drama",Alejandro Amenábar,8
+389,Cinderella Man,2005,144,"Biography,Drama,History",Ron Howard,8
+390,Mou gaan dou,2002,101,"Action,Crime,Drama",Andrew Lau,8
+391,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,"Action,Adventure,Fantasy",Gore Verbinski,8
+392,Big Fish,2003,125,"Adventure,Drama,Fantasy",Tim Burton,8
+393,The Incredibles,2004,115,"Animation,Action,Adventure",Brad Bird,8
+394,Yeopgijeogin geunyeo,2001,137,"Comedy,Drama,Romance",Jae-young Kwak,8
+395,Dogville,2003,178,"Crime,Drama",Lars von Trier,8
+396,Vizontele,2001,110,"Comedy,Drama",Yilmaz Erdogan,8
+397,Donnie Darko,2001,113,"Drama,Mystery,Sci-Fi",Richard Kelly,8
+398,Magnolia,1999,188,Drama,Paul Thomas Anderson,8
+399,Dancer in the Dark,2000,140,"Crime,Drama,Musical",Lars von Trier,8
+400,The Straight Story,1999,112,"Biography,Drama",David Lynch,8
+401,Pâfekuto burû,1997,81,"Animation,Crime,Mystery",Satoshi Kon,8
+402,Central do Brasil,1998,115,Drama,Walter Salles,8
+403,The Iron Giant,1999,86,"Animation,Action,Adventure",Brad Bird,8
+404,Sling Blade,1996,135,Drama,Billy Bob Thornton,8
+405,Secrets & Lies,1996,136,"Comedy,Drama",Mike Leigh,8
+406,Twelve Monkeys,1995,129,"Mystery,Sci-Fi,Thriller",Terry Gilliam,8
+407,Kôkaku Kidôtai,1995,83,"Animation,Action,Crime",Mamoru Oshii,8
+408,The Nightmare Before Christmas,1993,76,"Animation,Family,Fantasy",Henry Selick,8
+409,Groundhog Day,1993,101,"Comedy,Fantasy,Romance",Harold Ramis,8
+410,Bound by Honor,1993,180,"Crime,Drama",Taylor Hackford,8
+411,Scent of a Woman,1992,156,Drama,Martin Brest,8
+412,Aladdin,1992,90,"Animation,Adventure,Comedy",Ron Clements,8
+413,JFK,1991,189,"Drama,History,Thriller",Oliver Stone,8
+414,Beauty and the Beast,1991,84,"Animation,Family,Fantasy",Gary Trousdale,8
+415,Dances with Wolves,1990,181,"Adventure,Drama,Western",Kevin Costner,8
+416,Do the Right Thing,1989,120,"Comedy,Drama",Spike Lee,8
+417,Rain Man,1988,133,Drama,Barry Levinson,8
+418,Akira,1988,124,"Animation,Action,Drama",Katsuhiro Ôtomo,8
+419,Der Himmel über Berlin,1987,128,"Drama,Fantasy,Romance",Wim Wenders,8
+420,Au revoir les enfants,1987,104,"Drama,War",Louis Malle,8
+421,Tenkû no shiro Rapyuta,1986,125,"Animation,Adventure,Drama",Hayao Miyazaki,8
+422,The Terminator,1984,107,"Action,Sci-Fi",James Cameron,8
+423,Pink Floyd: The Wall,1982,95,"Drama,Fantasy,Music",Alan Parker,8
+424,Gandhi,1982,191,"Biography,Drama,History",Richard Attenborough,8
+425,Kagemusha,1980,180,"Drama,History,War",Akira Kurosawa,8
+426,Being There,1979,130,"Comedy,Drama",Hal Ashby,8
+427,Annie Hall,1977,93,"Comedy,Romance",Woody Allen,8
+428,All the President's Men,1976,138,"Biography,Drama,History",Alan J. Pakula,8
+429,Jaws,1975,124,"Adventure,Thriller",Steven Spielberg,8
+430,Dog Day Afternoon,1975,125,"Biography,Crime,Drama",Sidney Lumet,8
+431,Young Frankenstein,1974,106,Comedy,Mel Brooks,8
+432,Papillon,1973,151,"Biography,Crime,Drama",Franklin J. Schaffner,8
+433,The Exorcist,1973,122,Horror,William Friedkin,8
+434,Sleuth,1972,138,"Mystery,Thriller",Joseph L. Mankiewicz,8
+435,The Last Picture Show,1971,118,"Drama,Romance",Peter Bogdanovich,8
+436,Fiddler on the Roof,1971,181,"Drama,Family,Musical",Norman Jewison,8
+437,Il conformista,1970,113,Drama,Bernardo Bertolucci,8
+438,Butch Cassidy and the Sundance Kid,1969,110,"Biography,Crime,Drama",George Roy Hill,8
+439,Rosemary's Baby,1968,137,"Drama,Horror",Roman Polanski,8
+440,Planet of the Apes,1968,112,"Adventure,Sci-Fi",Franklin J. Schaffner,8
+441,The Graduate,1967,106,"Comedy,Drama,Romance",Mike Nichols,8
+442,Who's Afraid of Virginia Woolf?,1966,131,Drama,Mike Nichols,8
+443,The Sound of Music,1965,172,"Biography,Drama,Family",Robert Wise,8
+444,Doctor Zhivago,1965,197,"Drama,Romance,War",David Lean,8
+445,Per un pugno di dollari,1964,99,"Action,Drama,Western",Sergio Leone,8
+446,8½,1963,138,Drama,Federico Fellini,8
+447,Vivre sa vie: Film en douze tableaux,1962,80,Drama,Jean-Luc Godard,8
+448,The Hustler,1961,134,"Drama,Sport",Robert Rossen,8
+449,La dolce vita,1960,174,"Comedy,Drama",Federico Fellini,8
+450,Rio Bravo,1959,141,"Action,Drama,Western",Howard Hawks,8
+451,Anatomy of a Murder,1959,161,"Crime,Drama,Mystery",Otto Preminger,8
+452,Touch of Evil,1958,95,"Crime,Drama,Film-Noir",Orson Welles,8
+453,Cat on a Hot Tin Roof,1958,108,Drama,Richard Brooks,8
+454,Sweet Smell of Success,1957,96,"Drama,Film-Noir",Alexander Mackendrick,8
+455,The Killing,1956,84,"Crime,Drama,Film-Noir",Stanley Kubrick,8
+456,The Night of the Hunter,1955,92,"Crime,Drama,Film-Noir",Charles Laughton,8
+457,La Strada,1954,108,Drama,Federico Fellini,8
+458,Stalag 17,1953,120,"Comedy,Drama,War",Billy Wilder,8
+459,Roman Holiday,1953,118,"Comedy,Romance",William Wyler,8
+460,High Noon,1952,85,"Drama,Thriller,Western",Fred Zinnemann,8
+461,A Streetcar Named Desire,1951,122,Drama,Elia Kazan,8
+462,Strangers on a Train,1951,101,"Crime,Film-Noir,Thriller",Alfred Hitchcock,8
+463,In a Lonely Place,1950,94,"Drama,Film-Noir,Mystery",Nicholas Ray,8
+464,Kind Hearts and Coronets,1949,106,"Comedy,Crime",Robert Hamer,8
+465,Rope,1948,80,"Crime,Drama,Mystery",Alfred Hitchcock,8
+466,Out of the Past,1947,97,"Crime,Drama,Film-Noir",Jacques Tourneur,8
+467,Notorious,1946,102,"Drama,Film-Noir,Romance",Alfred Hitchcock,8
+468,Brief Encounter,1945,86,"Drama,Romance",David Lean,8
+469,Laura,1944,88,"Drama,Film-Noir,Mystery",Otto Preminger,8
+470,Arsenic and Old Lace,1943,118,"Comedy,Crime,Thriller",Frank Capra,8
+471,The Maltese Falcon,1941,100,"Crime,Film-Noir,Mystery",John Huston,8
+472,The Wizard of Oz,1939,102,"Adventure,Family,Fantasy",Victor Fleming,8
+473,La règle du jeu,1939,110,"Comedy,Drama",Jean Renoir,8
+474,The Thin Man,1934,91,"Comedy,Crime,Mystery",W.S. Van Dyke,8
+475,Bronenosets Potemkin,1925,75,"Drama,History,Thriller",Sergei M. Eisenstein,8
+476,Knives Out,2019,130,"Comedy,Crime,Drama",Rian Johnson,7.9
+477,Manbiki kazoku,2018,121,"Crime,Drama",Hirokazu Koreeda,7.9
+478,Marriage Story,2019,137,"Comedy,Drama,Romance",Noah Baumbach,7.9
+479,Call Me by Your Name,2017,132,"Drama,Romance",Luca Guadagnino,7.9
+480,"I, Daniel Blake",2016,100,Drama,Ken Loach,7.9
+481,Isle of Dogs,2018,101,"Animation,Adventure,Comedy",Wes Anderson,7.9
+482,Hunt for the Wilderpeople,2016,101,"Adventure,Comedy,Drama",Taika Waititi,7.9
+483,M.S. Dhoni: The Untold Story,2016,184,"Biography,Drama,Sport",Neeraj Pandey,7.9
+484,Captain Fantastic,2016,118,"Comedy,Drama",Matt Ross,7.9
+485,Sing Street,2016,106,"Comedy,Drama,Music",John Carney,7.9
+486,Thor: Ragnarok,2017,130,"Action,Adventure,Comedy",Taika Waititi,7.9
+487,Jojo Rabbit,2019,108,"Comedy,Drama,War",Taika Waititi,7.9
+488,Arrival,II 2016,116,"Drama,Sci-Fi",Denis Villeneuve,7.9
+489,Before Midnight,2013,109,"Drama,Romance",Richard Linklater,7.9
+490,X-Men: Days of Future Past,2014,132,"Action,Adventure,Sci-Fi",Bryan Singer,7.9
+491,Bir Zamanlar Anadolu'da,2011,157,"Crime,Drama",Nuri Bilge Ceylan,7.9
+492,Bohemian Rhapsody,2018,134,"Biography,Drama,Music",Bryan Singer,7.9
+493,The Perks of Being a Wallflower,2012,103,"Drama,Romance",Stephen Chbosky,7.9
+494,The Artist,I 2011,100,"Comedy,Drama,Romance",Michel Hazanavicius,7.9
+495,Edge of Tomorrow,2014,113,"Action,Adventure,Sci-Fi",Doug Liman,7.9
+496,Amour,2012,127,Drama,Michael Haneke,7.9
+497,Un prophète,2009,155,"Crime,Drama",Jacques Audiard,7.9
+498,Låt den rätte komma in,2008,114,"Crime,Drama,Fantasy",Tomas Alfredson,7.9
+499,District 9,2009,112,"Action,Sci-Fi,Thriller",Neill Blomkamp,7.9
+500,The Wrestler,2008,109,"Drama,Sport",Darren Aronofsky,7.9
+501,Jab We Met,2007,138,"Comedy,Drama,Romance",Imtiaz Ali,7.9
+502,Boyhood,I 2014,165,Drama,Richard Linklater,7.9
+503,"4 luni, 3 saptamâni si 2 zile",2007,113,Drama,Cristian Mungiu,7.9
+504,Star Trek,2009,127,"Action,Adventure,Sci-Fi",J.J. Abrams,7.9
+505,In Bruges,2008,107,"Comedy,Crime,Drama",Martin McDonagh,7.9
+506,The Man from Earth,2007,87,"Drama,Fantasy,Mystery",Richard Schenkman,7.9
+507,Letters from Iwo Jima,2006,141,"Action,Adventure,Drama",Clint Eastwood,7.9
+508,The Fall,2006,117,"Adventure,Drama,Fantasy",Tarsem Singh,7.9
+509,Life of Pi,2012,127,"Adventure,Drama,Fantasy",Ang Lee,7.9
+510,Fantastic Mr. Fox,2009,87,"Animation,Adventure,Comedy",Wes Anderson,7.9
+511,C.R.A.Z.Y.,2005,129,"Comedy,Drama",Jean-Marc Vallée,7.9
+512,Les choristes,2004,97,"Comedy,Drama,Music",Christophe Barratier,7.9
+513,Iron Man,2008,126,"Action,Adventure,Sci-Fi",Jon Favreau,7.9
+514,Shaun of the Dead,2004,99,"Comedy,Horror",Edgar Wright,7.9
+515,Kal Ho Naa Ho,2003,186,"Comedy,Drama,Musical",Nikkhil Advani,7.9
+516,Gegen die Wand,2004,121,"Drama,Romance",Fatih Akin,7.9
+517,Mystic River,2003,138,"Crime,Drama,Mystery",Clint Eastwood,7.9
+518,Harry Potter and the Prisoner of Azkaban,2004,142,"Adventure,Family,Fantasy",Alfonso Cuarón,7.9
+519,Ying xiong,2002,120,"Action,Adventure,History",Yimou Zhang,7.9
+520,Hable con ella,2002,112,"Drama,Mystery,Romance",Pedro Almodóvar,7.9
+521,No Man's Land,I 2001,98,"Comedy,Drama,War",Danis Tanovic,7.9
+522,Cowboy Bebop: Tengoku no tobira,2001,115,"Animation,Action,Crime",Shin'ichirô Watanabe,7.9
+523,The Bourne Identity,2002,119,"Action,Mystery,Thriller",Doug Liman,7.9
+524,Nueve reinas,2000,114,"Crime,Drama,Thriller",Fabián Bielinsky,7.9
+525,Children of Men,2006,109,"Adventure,Drama,Sci-Fi",Alfonso Cuarón,7.9
+526,Todo sobre mi madre,1999,101,Drama,Pedro Almodóvar,7.9
+527,Almost Famous,2000,122,"Adventure,Comedy,Drama",Cameron Crowe,7.9
+528,Mulholland Dr.,2001,147,"Drama,Mystery,Thriller",David Lynch,7.9
+529,Shrek,2001,90,"Animation,Adventure,Comedy",Andrew Adamson,7.9
+530,Toy Story 2,1999,92,"Animation,Adventure,Comedy",John Lasseter,7.9
+531,Knockin' on Heaven's Door,1997,87,"Action,Crime,Comedy",Thomas Jahn,7.9
+532,Boogie Nights,1997,155,Drama,Paul Thomas Anderson,7.9
+533,Mimi wo sumaseba,1995,111,"Animation,Drama,Family",Yoshifumi Kondô,7.9
+534,Once Were Warriors,1994,102,"Crime,Drama",Lee Tamahori,7.9
+535,True Romance,1993,119,"Crime,Drama,Romance",Tony Scott,7.9
+536,Trois couleurs: Bleu,1993,94,"Drama,Music,Mystery",Krzysztof Kieslowski,7.9
+537,Jûbê ninpûchô,1993,94,"Animation,Action,Adventure",Yoshiaki Kawajiri,7.9
+538,Carlito's Way,1993,144,"Crime,Drama,Thriller",Brian De Palma,7.9
+539,Edward Scissorhands,1990,105,"Drama,Fantasy,Romance",Tim Burton,7.9
+540,My Left Foot: The Story of Christy Brown,1989,103,"Biography,Drama",Jim Sheridan,7.9
+541,Majo no takkyûbin,1989,103,"Animation,Adventure,Drama",Hayao Miyazaki,7.9
+542,Crimes and Misdemeanors,1989,104,"Comedy,Drama",Woody Allen,7.9
+543,The Untouchables,1987,119,"Crime,Drama,Thriller",Brian De Palma,7.9
+544,Hannah and Her Sisters,1986,107,"Comedy,Drama",Woody Allen,7.9
+545,Brazil,1985,132,"Drama,Sci-Fi",Terry Gilliam,7.9
+546,This Is Spinal Tap,1984,82,"Comedy,Music",Rob Reiner,7.9
+547,A Christmas Story,1983,93,"Comedy,Family",Bob Clark,7.9
+548,The Blues Brothers,1980,133,"Action,Adventure,Comedy",John Landis,7.9
+549,Manhattan,1979,96,"Comedy,Drama,Romance",Woody Allen,7.9
+550,All That Jazz,1979,123,"Drama,Music,Musical",Bob Fosse,7.9
+551,Dawn of the Dead,1978,127,"Horror,Thriller",George A. Romero,7.9
+552,La montaña sagrada,1973,114,"Adventure,Drama,Fantasy",Alejandro Jodorowsky,7.9
+553,Amarcord,1973,123,"Comedy,Drama",Federico Fellini,7.9
+554,Le charme discret de la bourgeoisie,1972,102,Comedy,Luis Buñuel,7.9
+555,"Aguirre, der Zorn Gottes",1972,95,"Action,Adventure,Biography",Werner Herzog,7.9
+556,Harold and Maude,1971,91,"Comedy,Drama,Romance",Hal Ashby,7.9
+557,Patton,1970,172,"Biography,Drama,War",Franklin J. Schaffner,7.9
+558,The Wild Bunch,1969,145,"Action,Adventure,Western",Sam Peckinpah,7.9
+559,Night of the Living Dead,1968,96,"Horror,Thriller",George A. Romero,7.9
+560,The Lion in Winter,1968,134,"Biography,Drama,History",Anthony Harvey,7.9
+561,In the Heat of the Night,1967,110,"Crime,Drama,Mystery",Norman Jewison,7.9
+562,Charade,1963,113,"Comedy,Mystery,Romance",Stanley Donen,7.9
+563,The Manchurian Candidate,1962,126,"Drama,Thriller",John Frankenheimer,7.9
+564,Spartacus,1960,197,"Adventure,Biography,Drama",Stanley Kubrick,7.9
+565,L'avventura,1960,144,"Drama,Mystery,Romance",Michelangelo Antonioni,7.9
+566,Hiroshima mon amour,1959,90,"Drama,Romance",Alain Resnais,7.9
+567,The Ten Commandments,1956,220,"Adventure,Drama",Cecil B. DeMille,7.9
+568,The Searchers,1956,119,"Adventure,Drama,Western",John Ford,7.9
+569,East of Eden,1955,118,Drama,Elia Kazan,7.9
+570,Harvey,1950,104,"Comedy,Drama,Fantasy",Henry Koster,7.9
+571,Miracle on 34th Street,1947,96,"Comedy,Drama,Family",George Seaton,7.9
+572,The Big Sleep,1946,114,"Crime,Film-Noir,Mystery",Howard Hawks,7.9
+573,The Lost Weekend,1945,101,"Drama,Film-Noir",Billy Wilder,7.9
+574,The Philadelphia Story,1940,112,"Comedy,Romance",George Cukor,7.9
+575,His Girl Friday,1940,92,"Comedy,Drama,Romance",Howard Hawks,7.9
+576,Stagecoach,1939,96,"Adventure,Drama,Western",John Ford,7.9
+577,Bringing Up Baby,1938,102,"Comedy,Family,Romance",Howard Hawks,7.9
+578,The Adventures of Robin Hood,1938,102,"Action,Adventure,Romance",Michael Curtiz,7.9
+579,A Night at the Opera,1935,96,"Comedy,Music,Musical",Sam Wood,7.9
+580,King Kong,1933,100,"Adventure,Horror,Sci-Fi",Merian C. Cooper,7.9
+581,Freaks,1932,64,"Drama,Horror",Tod Browning,7.9
+582,Nosferatu,1922,94,"Fantasy,Horror",F.W. Murnau,7.9
+583,The Gentlemen,2019,113,"Action,Comedy,Crime",Guy Ritchie,7.8
+584,Raazi,2018,138,"Action,Drama,Thriller",Meghna Gulzar,7.8
+585,Sound of Metal,2019,120,"Drama,Music",Darius Marder,7.8
+586,Forushande,2016,124,Drama,Asghar Farhadi,7.8
+587,Dunkirk,2017,106,"Action,Drama,History",Christopher Nolan,7.8
+588,Perfetti sconosciuti,2016,96,"Comedy,Drama",Paolo Genovese,7.8
+589,Hidden Figures,2016,127,"Biography,Drama,History",Theodore Melfi,7.8
+590,Paddington 2,2017,103,"Animation,Adventure,Comedy",Paul King,7.8
+591,Udta Punjab,2016,148,"Action,Crime,Drama",Abhishek Chaubey,7.8
+592,Kubo and the Two Strings,2016,101,"Animation,Action,Adventure",Travis Knight,7.8
+593,Manchester by the Sea,2016,137,Drama,Kenneth Lonergan,7.8
+594,Under sandet,2015,100,"Drama,History,War",Martin Zandvliet,7.8
+595,Rogue One,2016,133,"Action,Adventure,Sci-Fi",Gareth Edwards,7.8
+596,Captain America: Civil War,2016,147,"Action,Adventure,Sci-Fi",Anthony Russo,7.8
+597,The Hateful Eight,2015,168,"Crime,Drama,Mystery",Quentin Tarantino,7.8
+598,Little Women,2019,135,"Drama,Romance",Greta Gerwig,7.8
+599,Loving Vincent,2017,94,"Animation,Biography,Crime",Dorota Kobiela,7.8
+600,Pride,I 2014,119,"Biography,Comedy,Drama",Matthew Warchus,7.8
+601,Nightcrawler,2014,117,"Crime,Drama,Thriller",Dan Gilroy,7.8
+602,Star Wars: Episode VII - The Force Awakens,2015,138,"Action,Adventure,Sci-Fi",J.J. Abrams,7.8
+603,La grande bellezza,2013,141,Drama,Paolo Sorrentino,7.8
+604,The Lunchbox,2013,104,"Drama,Romance",Ritesh Batra,7.8
+605,Vicky Donor,2012,126,"Comedy,Romance",Shoojit Sircar,7.8
+606,Big Hero 6,2014,102,"Animation,Action,Adventure",Don Hall,7.8
+607,Kai po che!,2013,130,"Drama,Sport",Abhishek Kapoor,7.8
+608,About Time,I 2013,123,"Comedy,Drama,Fantasy",Richard Curtis,7.8
+609,English Vinglish,2012,134,"Comedy,Drama,Family",Gauri Shinde,7.8
+610,Kaze tachinu,2013,126,"Animation,Biography,Drama",Hayao Miyazaki,7.8
+611,La migliore offerta,2013,131,"Crime,Drama,Mystery",Giuseppe Tornatore,7.8
+612,Moonrise Kingdom,2012,94,"Comedy,Drama,Romance",Wes Anderson,7.8
+613,How to Train Your Dragon 2,2014,102,"Animation,Action,Adventure",Dean DeBlois,7.8
+614,The Big Short,2015,130,"Biography,Comedy,Drama",Adam McKay,7.8
+615,Ang-ma-reul bo-at-da,2010,144,"Action,Crime,Drama",Jee-woon Kim,7.8
+616,The Girl with the Dragon Tattoo,2011,158,"Crime,Drama,Mystery",David Fincher,7.8
+617,Captain Phillips,2013,134,"Adventure,Biography,Crime",Paul Greengrass,7.8
+618,Ajeossi,2010,119,"Action,Crime,Drama",Jeong-beom Lee,7.8
+619,Straight Outta Compton,2015,147,"Biography,Drama,History",F. Gary Gray,7.8
+620,The Irishman,2019,209,"Biography,Crime,Drama",Martin Scorsese,7.8
+621,Madeo,2009,129,"Crime,Drama,Mystery",Bong Joon Ho,7.8
+622,Chugyeokja,2008,125,"Action,Crime,Thriller",Na Hong-jin,7.8
+623,Moon,2009,97,"Drama,Mystery,Sci-Fi",Duncan Jones,7.8
+624,The Hobbit: The Desolation of Smaug,2013,161,"Adventure,Fantasy",Peter Jackson,7.8
+625,Das weiße Band - Eine deutsche Kindergeschichte,2009,144,"Drama,History,Mystery",Michael Haneke,7.8
+626,Män som hatar kvinnor,2009,152,"Crime,Drama,Mystery",Niels Arden Oplev,7.8
+627,The Trial of the Chicago 7,2020,129,"Drama,History,Thriller",Aaron Sorkin,7.8
+628,Druk,2020,117,"Comedy,Drama",Thomas Vinterberg,7.8
+629,The Fighter,I 2010,116,"Biography,Drama,Sport",David O. Russell,7.8
+630,Taken,I 2008,90,"Action,Crime,Thriller",Pierre Morel,7.8
+631,The Boy in the Striped Pyjamas,2008,94,"Drama,History,War",Mark Herman,7.8
+632,Once,I 2007,86,"Drama,Music,Romance",John Carney,7.8
+633,The Hobbit: An Unexpected Journey,2012,169,"Adventure,Fantasy",Peter Jackson,7.8
+634,Auf der anderen Seite,2007,122,Drama,Fatih Akin,7.8
+635,Atonement,2007,123,"Drama,Mystery,Romance",Joe Wright,7.8
+636,Drive,I 2011,100,"Crime,Drama",Nicolas Winding Refn,7.8
+637,American Gangster,2007,157,"Biography,Crime,Drama",Ridley Scott,7.8
+638,Avatar,2009,162,"Action,Adventure,Fantasy",James Cameron,7.8
+639,Mr. Nobody,2009,141,"Drama,Fantasy,Romance",Jaco Van Dormael,7.8
+640,Apocalypto,2006,139,"Action,Adventure,Drama",Mel Gibson,7.8
+641,Little Miss Sunshine,2006,101,"Comedy,Drama",Jonathan Dayton,7.8
+642,Hot Fuzz,2007,121,"Action,Comedy,Mystery",Edgar Wright,7.8
+643,The Curious Case of Benjamin Button,2008,166,"Drama,Fantasy,Romance",David Fincher,7.8
+644,Veer-Zaara,2004,192,"Drama,Family,Musical",Yash Chopra,7.8
+645,Adams æbler,2005,94,"Comedy,Crime,Drama",Anders Thomas Jensen,7.8
+646,Pride & Prejudice,2005,129,"Drama,Romance",Joe Wright,7.8
+647,The World's Fastest Indian,2005,127,"Biography,Drama,Sport",Roger Donaldson,7.8
+648,Tôkyô goddofâzâzu,2003,92,"Animation,Adventure,Comedy",Satoshi Kon,7.8
+649,Serenity,2005,119,"Action,Adventure,Sci-Fi",Joss Whedon,7.8
+650,Walk the Line,2005,136,"Biography,Drama,Music",James Mangold,7.8
+651,Ondskan,2003,113,Drama,Mikael Håfström,7.8
+652,The Notebook,2004,123,"Drama,Romance",Nick Cassavetes,7.8
+653,Diarios de motocicleta,2004,126,"Adventure,Biography,Drama",Walter Salles,7.8
+654,Lilja 4-ever,2002,109,"Crime,Drama",Lukas Moodysson,7.8
+655,Les triplettes de Belleville,2003,78,"Animation,Comedy,Drama",Sylvain Chomet,7.8
+656,Gongdong gyeongbi guyeok JSA,2000,110,"Action,Drama,Thriller",Park Chan-Wook,7.8
+657,Waking Life,2001,99,"Animation,Drama,Fantasy",Richard Linklater,7.8
+658,Remember the Titans,2000,113,"Biography,Drama,Sport",Boaz Yakin,7.8
+659,Wo hu cang long,2000,120,"Action,Adventure,Fantasy",Ang Lee,7.8
+660,Cast Away,2000,143,"Adventure,Drama,Romance",Robert Zemeckis,7.8
+661,The Boondock Saints,1999,108,"Action,Crime,Thriller",Troy Duffy,7.8
+662,The Insider,1999,157,"Biography,Drama,Thriller",Michael Mann,7.8
+663,October Sky,1999,108,"Biography,Drama,Family",Joe Johnston,7.8
+664,Titanic,1997,194,"Drama,Romance",James Cameron,7.8
+665,Ta'm e guilass,1997,95,Drama,Abbas Kiarostami,7.8
+666,Hana-bi,1997,103,"Crime,Drama,Romance",Takeshi Kitano,7.8
+667,Gattaca,1997,106,"Drama,Sci-Fi,Thriller",Andrew Niccol,7.8
+668,The Game,1997,129,"Drama,Mystery,Thriller",David Fincher,7.8
+669,Breaking the Waves,1996,159,Drama,Lars von Trier,7.8
+670,Ed Wood,1994,127,"Biography,Comedy,Drama",Tim Burton,7.8
+671,Tombstone,1993,130,"Action,Biography,Drama",George P. Cosmatos,7.8
+672,The Sandlot,1993,101,"Comedy,Drama,Family",David Mickey Evans,7.8
+673,The Remains of the Day,1993,134,"Drama,Romance",James Ivory,7.8
+674,Naked,1993,132,"Comedy,Drama",Mike Leigh,7.8
+675,The Fugitive,1993,130,"Action,Crime,Drama",Andrew Davis,7.8
+676,A Bronx Tale,1993,121,"Crime,Drama,Romance",Robert De Niro,7.8
+677,Batman: Mask of the Phantasm,1993,76,"Animation,Action,Crime",Kevin Altieri,7.8
+678,Lat sau san taam,1992,128,"Action,Crime,Thriller",John Woo,7.8
+679,La double vie de Véronique,1991,98,"Drama,Fantasy,Music",Krzysztof Kieslowski,7.8
+680,Boyz n the Hood,1991,112,"Crime,Drama",John Singleton,7.8
+681,Misery,1990,107,"Drama,Thriller",Rob Reiner,7.8
+682,Awakenings,1990,121,"Biography,Drama",Penny Marshall,7.8
+683,Glory,1989,122,"Biography,Drama,History",Edward Zwick,7.8
+684,Dip huet seung hung,1989,111,"Action,Crime,Drama",John Woo,7.8
+685,Back to the Future Part II,1989,108,"Adventure,Comedy,Sci-Fi",Robert Zemeckis,7.8
+686,Mississippi Burning,1988,128,"Crime,Drama,History",Alan Parker,7.8
+687,Predator,1987,107,"Action,Adventure,Sci-Fi",John McTiernan,7.8
+688,Ferris Bueller's Day Off,1986,103,Comedy,John Hughes,7.8
+689,The Goonies,1985,114,"Adventure,Comedy,Family",Richard Donner,7.8
+690,The Color Purple,1985,154,Drama,Steven Spielberg,7.8
+691,The Breakfast Club,1985,97,"Comedy,Drama",John Hughes,7.8
+692,The Killing Fields,1984,141,"Biography,Drama,History",Roland Joffé,7.8
+693,Ghostbusters,1984,105,"Action,Comedy,Fantasy",Ivan Reitman,7.8
+694,The Right Stuff,1983,193,"Adventure,Biography,Drama",Philip Kaufman,7.8
+695,The King of Comedy,1982,109,"Comedy,Crime,Drama",Martin Scorsese,7.8
+696,E.T. the Extra-Terrestrial,1982,115,"Family,Sci-Fi",Steven Spielberg,7.8
+697,Kramer vs. Kramer,1979,105,Drama,Robert Benton,7.8
+698,Days of Heaven,1978,94,"Drama,Romance",Terrence Malick,7.8
+699,The Outlaw Josey Wales,1976,135,Western,Clint Eastwood,7.8
+700,The Man Who Would Be King,1975,129,"Adventure,History,War",John Huston,7.8
+701,The Conversation,1974,113,"Drama,Mystery,Thriller",Francis Ford Coppola,7.8
+702,La planète sauvage,1973,72,"Animation,Sci-Fi",René Laloux,7.8
+703,The Day of the Jackal,1973,143,"Crime,Drama,Thriller",Fred Zinnemann,7.8
+704,Badlands,1973,94,"Action,Crime,Drama",Terrence Malick,7.8
+705,Cabaret,1972,124,"Drama,Music,Musical",Bob Fosse,7.8
+706,Willy Wonka & the Chocolate Factory,1971,100,"Family,Fantasy,Musical",Mel Stuart,7.8
+707,Midnight Cowboy,1969,113,Drama,John Schlesinger,7.8
+708,Wait Until Dark,1967,108,Thriller,Terence Young,7.8
+709,Guess Who's Coming to Dinner,1967,108,"Comedy,Drama",Stanley Kramer,7.8
+710,Bonnie and Clyde,1967,111,"Action,Biography,Crime",Arthur Penn,7.8
+711,My Fair Lady,1964,170,"Drama,Family,Musical",George Cukor,7.8
+712,Mary Poppins,1964,139,"Comedy,Family,Fantasy",Robert Stevenson,7.8
+713,The Longest Day,1962,178,"Action,Drama,History",Ken Annakin,7.8
+714,Jules et Jim,1962,105,"Drama,Romance",François Truffaut,7.8
+715,The Innocents,1961,100,Horror,Jack Clayton,7.8
+716,À bout de souffle,1960,90,"Crime,Drama",Jean-Luc Godard,7.8
+717,The Quiet Man,1952,129,"Comedy,Drama,Romance",John Ford,7.8
+718,The African Queen,1951,105,"Adventure,Drama,Romance",John Huston,7.8
+719,Red River,1948,133,"Action,Adventure,Drama",Howard Hawks,7.8
+720,Key Largo,1948,100,"Action,Crime,Drama",John Huston,7.8
+721,To Have and Have Not,1944,100,"Adventure,Comedy,Film-Noir",Howard Hawks,7.8
+722,Gaslight,1944,114,"Crime,Drama,Mystery",George Cukor,7.8
+723,Shadow of a Doubt,1943,108,"Film-Noir,Thriller",Alfred Hitchcock,7.8
+724,The Lady Vanishes,1938,96,"Mystery,Thriller",Alfred Hitchcock,7.8
+725,Bride of Frankenstein,1935,75,"Drama,Horror,Sci-Fi",James Whale,7.8
+726,Duck Soup,1933,69,"Comedy,Musical,War",Leo McCarey,7.8
+727,Scarface,1932,93,"Action,Crime,Drama",Howard Hawks,7.8
+728,Frankenstein,1931,70,"Drama,Horror,Sci-Fi",James Whale,7.8
+729,The Mitchells vs the Machines,2021,113,"Animation,Adventure,Comedy",Michael Rianda,7.7
+730,Roma,2018,135,Drama,Alfonso Cuarón,7.7
+731,God's Own Country,2017,104,"Drama,Romance",Francis Lee,7.7
+732,Deadpool 2,2018,119,"Action,Adventure,Comedy",David Leitch,7.7
+733,Wind River,2017,107,"Crime,Drama,Mystery",Taylor Sheridan,7.7
+734,Get Out,I 2017,104,"Horror,Mystery,Thriller",Jordan Peele,7.7
+735,Mission: Impossible - Fallout,2018,147,"Action,Adventure,Thriller",Christopher McQuarrie,7.7
+736,En man som heter Ove,2015,116,"Comedy,Drama,Romance",Hannes Holm,7.7
+737,What We Do in the Shadows,2014,86,"Comedy,Horror",Jemaine Clement,7.7
+738,Omoide no Mânî,2014,103,"Animation,Drama,Family",James Simone,7.7
+739,The Theory of Everything,2014,123,"Biography,Drama,Romance",James Marsh,7.7
+740,Kingsman: The Secret Service,2014,129,"Action,Adventure,Comedy",Matthew Vaughn,7.7
+741,The Fault in Our Stars,2014,126,"Drama,Romance",Josh Boone,7.7
+742,Me and Earl and the Dying Girl,2015,105,"Comedy,Drama",Alfonso Gomez-Rejon,7.7
+743,Birdman or (The Unexpected Virtue of Ignorance),2014,119,"Comedy,Drama",Alejandro G. Iñárritu,7.7
+744,Le passé,2013,130,"Drama,Mystery",Asghar Farhadi,7.7
+745,La vie d'Adèle,2013,180,"Drama,Romance",Abdellatif Kechiche,7.7
+746,The Broken Circle Breakdown,2012,111,"Drama,Music,Romance",Felix van Groeningen,7.7
+747,Toy Story 4,2019,100,"Animation,Adventure,Comedy",Josh Cooley,7.7
+748,Captain America: The Winter Soldier,2014,136,"Action,Adventure,Sci-Fi",Anthony Russo,7.7
+749,Rockstar,2011,159,"Drama,Music,Romance",Imtiaz Ali,7.7
+750,Nebraska,2013,115,"Adventure,Comedy,Drama",Alexander Payne,7.7
+751,Wreck-It Ralph,2012,101,"Animation,Adventure,Comedy",Rich Moore,7.7
+752,Le Petit Prince,2015,108,"Animation,Adventure,Drama",Mark Osborne,7.7
+753,Detachment,2011,98,Drama,Tony Kaye,7.7
+754,Midnight in Paris,2011,94,"Comedy,Fantasy,Romance",Woody Allen,7.7
+755,Kokuhaku,2010,106,"Drama,Thriller",Tetsuya Nakashima,7.7
+756,The Lego Movie,2014,100,"Animation,Action,Adventure",Christopher Miller,7.7
+757,Gravity,2013,91,"Drama,Sci-Fi,Thriller",Alfonso Cuarón,7.7
+758,Star Trek Into Darkness,2013,132,"Action,Adventure,Sci-Fi",J.J. Abrams,7.7
+759,Beasts of No Nation,2015,137,"Drama,War",Cary Joji Fukunaga,7.7
+760,The Social Network,2010,120,"Biography,Drama",David Fincher,7.7
+761,X: First Class,2011,131,"Action,Adventure,Sci-Fi",Matthew Vaughn,7.7
+762,The Hangover,2009,100,Comedy,Todd Phillips,7.7
+763,Skyfall,2012,143,"Action,Adventure,Thriller",Sam Mendes,7.7
+764,Silver Linings Playbook,2012,122,"Comedy,Drama,Romance",David O. Russell,7.7
+765,Argo,2012,120,"Biography,Drama,Thriller",Ben Affleck,7.7
+766,(500) Days of Summer,2009,95,"Comedy,Drama,Romance",Marc Webb,7.7
+767,Harry Potter and the Deathly Hallows: Part 1,2010,146,"Adventure,Family,Fantasy",David Yates,7.7
+768,Gake no ue no Ponyo,2008,101,"Animation,Adventure,Comedy",Hayao Miyazaki,7.7
+769,Frost/Nixon,2008,122,"Biography,Drama,History",Ron Howard,7.7
+770,Papurika,2006,90,"Animation,Drama,Fantasy",Satoshi Kon,7.7
+771,Changeling,2008,141,"Biography,Crime,Drama",Clint Eastwood,7.7
+772,Flipped,I 2010,90,"Comedy,Drama,Romance",Rob Reiner,7.7
+773,Toki o kakeru shôjo,2006,98,"Animation,Adventure,Comedy",Mamoru Hosoda,7.7
+774,Death Note: Desu nôto,2006,126,"Crime,Drama,Fantasy",Shûsuke Kaneko,7.7
+775,This Is England,2006,101,"Crime,Drama",Shane Meadows,7.7
+776,Ex Machina,2014,108,"Drama,Sci-Fi,Thriller",Alex Garland,7.7
+777,Efter brylluppet,2006,120,Drama,Susanne Bier,7.7
+778,The Last King of Scotland,2006,123,"Biography,Drama,History",Kevin Macdonald,7.7
+779,Zodiac,2007,157,"Crime,Drama,Mystery",David Fincher,7.7
+780,Lucky Number Slevin,2006,110,"Crime,Drama,Thriller",Paul McGuigan,7.7
+781,Joyeux Noël,2005,116,"Drama,History,Music",Christian Carion,7.7
+782,Control,2007,122,"Biography,Drama,Music",Anton Corbijn,7.7
+783,Tangled,2010,100,"Animation,Adventure,Comedy",Nathan Greno,7.7
+784,Zwartboek,2006,145,"Drama,Thriller,War",Paul Verhoeven,7.7
+785,Brokeback Mountain,2005,134,"Drama,Romance",Ang Lee,7.7
+786,3:10 to Yuma,2007,122,"Action,Crime,Drama",James Mangold,7.7
+787,Crash,I 2004,112,"Crime,Drama,Thriller",Paul Haggis,7.7
+788,Kung fu,2004,99,"Action,Comedy,Fantasy",Stephen Chow,7.7
+789,The Bourne Supremacy,2004,108,"Action,Mystery,Thriller",Paul Greengrass,7.7
+790,The Machinist,2004,101,"Drama,Thriller",Brad Anderson,7.7
+791,Ray,I 2004,152,"Biography,Drama,Music",Taylor Hackford,7.7
+792,Lost in Translation,2003,102,"Comedy,Drama",Sofia Coppola,7.7
+793,Harry Potter and the Goblet of Fire,2005,157,"Adventure,Family,Fantasy",Mike Newell,7.7
+794,Man on Fire,2004,146,"Action,Crime,Drama",Tony Scott,7.7
+795,Coraline,2009,100,"Animation,Drama,Family",Henry Selick,7.7
+796,The Last Samurai,2003,154,"Action,Drama",Edward Zwick,7.7
+797,The Magdalene Sisters,2002,114,Drama,Peter Mullan,7.7
+798,Finding Neverland,2004,106,"Biography,Drama,Family",Marc Forster,7.7
+799,Good Bye Lenin!,2003,121,"Comedy,Drama,Romance",Wolfgang Becker,7.7
+800,In America,2002,105,Drama,Jim Sheridan,7.7
+801,Adaptation.,2002,115,"Comedy,Drama",Spike Jonze,7.7
+802,Black Hawk Down,2001,144,"Drama,History,War",Ridley Scott,7.7
+803,Road to Perdition,2002,117,"Crime,Drama,Thriller",Sam Mendes,7.7
+804,Das Experiment,2001,120,"Drama,Thriller",Oliver Hirschbiegel,7.7
+805,Billy Elliot,2000,110,"Drama,Music",Stephen Daldry,7.7
+806,Hedwig and the Angry Inch,2001,95,"Comedy,Drama,Music",John Cameron Mitchell,7.7
+807,The Count of Monte Cristo,2002,131,"Action,Adventure,Drama",Kevin Reynolds,7.7
+808,Ocean's Eleven,2001,116,"Crime,Thriller",Steven Soderbergh,7.7
+809,Vampire Hunter D: Bloodlust,2000,103,"Animation,Action,Fantasy",Jack Fletcher,7.7
+810,"O Brother, Where Art Thou?",2000,107,"Adventure,Comedy,Crime",Joel Coen,7.7
+811,Interstate 60: Episodes of the Road,2002,116,"Adventure,Comedy,Drama",Bob Gale,7.7
+812,"South Park: Bigger, Longer & Uncut",1999,81,"Animation,Comedy,Fantasy",Trey Parker,7.7
+813,Office Space,1999,89,Comedy,Mike Judge,7.7
+814,Happiness,1998,134,"Comedy,Drama",Todd Solondz,7.7
+815,Training Day,2001,122,"Crime,Drama,Thriller",Antoine Fuqua,7.7
+816,Lola rennt,1998,81,"Crime,Drama,Thriller",Tom Tykwer,7.7
+817,Rushmore,1998,93,"Comedy,Drama,Romance",Wes Anderson,7.7
+818,Abre los ojos,1997,119,"Drama,Mystery,Sci-Fi",Alejandro Amenábar,7.7
+819,Being John Malkovich,1999,113,"Comedy,Drama,Fantasy",Spike Jonze,7.7
+820,As Good as It Gets,1997,139,"Comedy,Drama,Romance",James L. Brooks,7.7
+821,The Fifth Element,1997,126,"Action,Adventure,Sci-Fi",Luc Besson,7.7
+822,Le dîner de cons,1998,80,Comedy,Francis Veber,7.7
+823,Donnie Brasco,1997,127,"Biography,Crime,Drama",Mike Newell,7.7
+824,Shine,1996,105,"Biography,Drama,Music",Scott Hicks,7.7
+825,Primal Fear,1996,129,"Crime,Drama,Mystery",Gregory Hoblit,7.7
+826,Hamlet,1996,242,Drama,Kenneth Branagh,7.7
+827,Sense and Sensibility,1995,136,"Drama,Romance",Ang Lee,7.7
+828,A Little Princess,1995,97,"Drama,Family,Fantasy",Alfonso Cuarón,7.7
+829,Do lok tin si,1995,99,"Comedy,Crime,Drama",Kar-Wai Wong,7.7
+830,Il postino,1994,108,"Biography,Comedy,Drama",Michael Radford,7.7
+831,Clerks,1994,92,Comedy,Kevin Smith,7.7
+832,What's Eating Gilbert Grape,1993,118,Drama,Lasse Hallström,7.7
+833,Short Cuts,1993,188,"Comedy,Drama",Robert Altman,7.7
+834,Philadelphia,1993,125,Drama,Jonathan Demme,7.7
+835,The Muppet Christmas Carol,1992,85,"Comedy,Drama,Family",Brian Henson,7.7
+836,Malcolm X,1992,202,"Biography,Drama,History",Spike Lee,7.7
+837,The Last of the Mohicans,1992,112,"Action,Adventure,Drama",Michael Mann,7.7
+838,Porco Rosso,1992,94,"Animation,Adventure,Comedy",Hayao Miyazaki,7.7
+839,Glengarry Glen Ross,1992,100,"Crime,Drama,Mystery",James Foley,7.7
+840,A Few Good Men,1992,138,"Drama,Thriller",Rob Reiner,7.7
+841,Night on Earth,1991,129,"Comedy,Drama",Jim Jarmusch,7.7
+842,Fried Green Tomatoes,1991,130,Drama,Jon Avnet,7.7
+843,Barton Fink,1991,116,"Comedy,Drama,Thriller",Joel Coen,7.7
+844,Miller's Crossing,1990,115,"Crime,Drama,Thriller",Joel Coen,7.7
+845,Who Framed Roger Rabbit,1988,104,"Animation,Adventure,Comedy",Robert Zemeckis,7.7
+846,Spoorloos,1988,107,"Mystery,Thriller",George Sluizer,7.7
+847,The Last Emperor,1987,163,"Biography,Drama,History",Bernardo Bertolucci,7.7
+848,Evil Dead II,1987,84,"Comedy,Horror",Sam Raimi,7.7
+849,Empire of the Sun,1987,153,"Action,Drama,History",Steven Spielberg,7.7
+850,Der Name der Rose,1986,130,"Crime,Drama,Mystery",Jean-Jacques Annaud,7.7
+851,Down by Law,1986,107,"Comedy,Crime,Drama",Jim Jarmusch,7.7
+852,Blue Velvet,1986,120,"Drama,Mystery,Thriller",David Lynch,7.7
+853,The Purple Rose of Cairo,1985,82,"Comedy,Fantasy,Romance",Woody Allen,7.7
+854,After Hours,I 1985,97,"Comedy,Crime,Drama",Martin Scorsese,7.7
+855,Zelig,1983,79,Comedy,Woody Allen,7.7
+856,The Verdict,1982,129,Drama,Sidney Lumet,7.7
+857,Star Trek II: The Wrath of Khan,1982,113,"Action,Adventure,Sci-Fi",Nicholas Meyer,7.7
+858,First Blood,1982,93,"Action,Adventure",Ted Kotcheff,7.7
+859,Ordinary People,1980,124,Drama,Robert Redford,7.7
+860,Airplane!,1980,88,Comedy,Jim Abrahams,7.7
+861,Rupan Sansei: Kariosutoro no Shiro,1979,100,"Animation,Action,Adventure",Hayao Miyazaki,7.7
+862,Halloween,1978,91,"Horror,Thriller",John Carpenter,7.7
+863,Le locataire,1976,126,"Drama,Thriller",Roman Polanski,7.7
+864,Love and Death,1975,85,"Comedy,War",Woody Allen,7.7
+865,The Taking of Pelham One Two Three,1974,104,"Action,Crime,Thriller",Joseph Sargent,7.7
+866,Blazing Saddles,1974,93,"Comedy,Western",Mel Brooks,7.7
+867,Serpico,1973,130,"Biography,Crime,Drama",Sidney Lumet,7.7
+868,Enter the Dragon,1973,102,"Action,Crime,Drama",Robert Clouse,7.7
+869,Deliverance,1972,109,"Adventure,Drama,Thriller",John Boorman,7.7
+870,The French Connection,1971,104,"Action,Crime,Drama",William Friedkin,7.7
+871,Dirty Harry,1971,102,"Action,Crime,Thriller",Don Siegel,7.7
+872,The Odd Couple,1968,105,Comedy,Gene Saks,7.7
+873,The Dirty Dozen,1967,150,"Action,Adventure,War",Robert Aldrich,7.7
+874,Belle de jour,1967,100,"Drama,Romance",Luis Buñuel,7.7
+875,A Man for All Seasons,1966,120,"Biography,Drama,History",Fred Zinnemann,7.7
+876,Repulsion,1965,105,"Drama,Horror,Thriller",Roman Polanski,7.7
+877,Zulu,1964,138,"Drama,History,War",Cy Endfield,7.7
+878,Goldfinger,1964,110,"Action,Adventure,Thriller",Guy Hamilton,7.7
+879,The Birds,1963,119,"Drama,Horror,Mystery",Alfred Hitchcock,7.7
+880,Cape Fear,1962,106,"Drama,Thriller",J. Lee Thompson,7.7
+881,Peeping Tom,1960,101,"Drama,Horror,Thriller",Michael Powell,7.7
+882,The Magnificent Seven,1960,128,"Action,Adventure,Western",John Sturges,7.7
+883,Les yeux sans visage,1960,90,"Drama,Horror",Georges Franju,7.7
+884,Invasion of the Body Snatchers,1956,80,"Drama,Horror,Sci-Fi",Don Siegel,7.7
+885,Rebel Without a Cause,1955,111,Drama,Nicholas Ray,7.7
+886,The Ladykillers,1955,91,"Comedy,Crime",Alexander Mackendrick,7.7
+887,Sabrina,1954,113,"Comedy,Drama,Romance",Billy Wilder,7.7
+888,The Day the Earth Stood Still,1951,92,"Drama,Sci-Fi",Robert Wise,7.7
+889,Gilda,1946,110,"Drama,Film-Noir,Romance",Charles Vidor,7.7
+890,Fantasia,1940,125,"Animation,Family,Fantasy",James Algar,7.7
+891,The 39 Steps,1935,86,"Crime,Mystery,Thriller",Alfred Hitchcock,7.7
+892,The Invisible Man,1933,71,"Horror,Sci-Fi",James Whale,7.7
+893,Dark Waters,2019,126,"Biography,Drama,History",Todd Haynes,7.6
+894,Searching,III 2018,102,"Drama,Mystery,Thriller",Aneesh Chaganty,7.6
+895,Once Upon a Time... in Hollywood,2019,161,"Comedy,Drama",Quentin Tarantino,7.6
+896,Nelyubov,2017,127,Drama,Andrey Zvyagintsev,7.6
+897,Busanhaeng,2016,118,"Action,Horror,Thriller",Sang-ho Yeon,7.6
+898,The Florida Project,2017,111,Drama,Sean Baker,7.6
+899,Just Mercy,2019,137,"Biography,Crime,Drama",Destin Daniel Cretton,7.6
+900,Gifted,2017,101,Drama,Marc Webb,7.6
+901,The Peanut Butter Falcon,2019,97,"Adventure,Comedy,Drama",Tyler Nilson,7.6
+902,Victoria,II 2015,138,"Crime,Drama,Romance",Sebastian Schipper,7.6
+903,Guardians of the Galaxy Vol. 2,2017,136,"Action,Adventure,Comedy",James Gunn,7.6
+904,Baby Driver,2017,113,"Action,Crime,Drama",Edgar Wright,7.6
+905,Only the Brave,2017,134,"Action,Biography,Drama",Joseph Kosinski,7.6
+906,Bridge of Spies,2015,142,"Drama,History,Thriller",Steven Spielberg,7.6
+907,Incredibles 2,2018,118,"Animation,Action,Adventure",Brad Bird,7.6
+908,Moana,I 2016,107,"Animation,Adventure,Comedy",Ron Clements,7.6
+909,Sicario,2015,121,"Action,Crime,Drama",Denis Villeneuve,7.6
+910,Creed,II 2015,133,"Drama,Sport",Ryan Coogler,7.6
+911,Leviafan,2014,140,"Crime,Drama",Andrey Zvyagintsev,7.6
+912,Hell or High Water,II 2016,102,"Action,Crime,Drama",David Mackenzie,7.6
+913,Philomena,2013,98,"Biography,Comedy,Drama",Stephen Frears,7.6
+914,El cuerpo,2012,112,"Mystery,Thriller",Oriol Paulo,7.6
+915,Serbuan maut,2011,101,"Action,Thriller",Gareth Evans,7.6
+916,End of Watch,2012,109,"Action,Crime,Drama",David Ayer,7.6
+917,A Star Is Born,2018,136,"Drama,Music,Romance",Bradley Cooper,7.6
+918,True Grit,2010,110,"Drama,Western",Ethan Coen,7.6
+919,Hævnen,2010,118,"Drama,Romance",Susanne Bier,7.6
+920,Despicable Me,2010,95,"Animation,Comedy,Crime",Pierre Coffin,7.6
+921,50/50,2011,100,"Comedy,Drama,Romance",Jonathan Levine,7.6
+922,Kick-Ass,2010,117,"Action,Comedy,Crime",Matthew Vaughn,7.6
+923,Celda 211,2009,113,"Action,Adventure,Crime",Daniel Monzón,7.6
+924,Moneyball,2011,133,"Biography,Drama,Sport",Bennett Miller,7.6
+925,La piel que habito,2011,120,"Drama,Horror,Thriller",Pedro Almodóvar,7.6
+926,Zombieland,2009,88,"Adventure,Comedy,Fantasy",Ruben Fleischer,7.6
+927,Die Welle,2008,107,"Drama,Thriller",Dennis Gansel,7.6
+928,Sherlock Holmes,2009,128,"Action,Adventure,Mystery",Guy Ritchie,7.6
+929,The Blind Side,2009,129,"Biography,Drama,Sport",John Lee Hancock,7.6
+930,The Visitor,I 2007,104,Drama,Tom McCarthy,7.6
+931,Seven Pounds,2008,123,Drama,Gabriele Muccino,7.6
+932,Eastern Promises,2007,100,"Action,Crime,Drama",David Cronenberg,7.6
+933,Stardust,2007,127,"Adventure,Family,Fantasy",Matthew Vaughn,7.6
+934,The Secret of Kells,2009,71,"Animation,Adventure,Family",Tomm Moore,7.6
+935,Inside Man,2006,129,"Crime,Drama,Mystery",Spike Lee,7.6
+936,Gone Baby Gone,2007,114,"Crime,Drama,Mystery",Ben Affleck,7.6
+937,La Vie En Rose,2007,140,"Biography,Drama,Music",Olivier Dahan,7.6
+938,Huo Yuan Jia,2006,104,"Action,Biography,Drama",Ronny Yu,7.6
+939,The Illusionist,2006,110,"Drama,Fantasy,Mystery",Neil Burger,7.6
+940,Dead Man's Shoes,2004,90,"Crime,Drama,Thriller",Shane Meadows,7.6
+941,Harry Potter and the Half-Blood Prince,2009,153,"Action,Adventure,Family",David Yates,7.6
+942,300,2006,117,"Action,Drama",Zack Snyder,7.6
+943,Match Point,2005,124,"Drama,Romance,Thriller",Woody Allen,7.6
+944,Watchmen,2009,162,"Action,Drama,Mystery",Zack Snyder,7.6
+945,Saw,2004,103,"Horror,Mystery,Thriller",James Wan,7.6
+946,Mysterious Skin,2004,105,Drama,Gregg Araki,7.6
+947,Un long dimanche de fiançailles,2004,133,"Drama,Mystery,Romance",Jean-Pierre Jeunet,7.6
+948,The Station Agent,2003,89,"Comedy,Drama",Tom McCarthy,7.6
+949,21 Grams,2003,124,"Crime,Drama,Thriller",Alejandro G. Iñárritu,7.6
+950,Boksuneun naui geot,2002,129,"Crime,Drama,Thriller",Park Chan-Wook,7.6
+951,25th Hour,2002,135,Drama,Spike Lee,7.6
+952,The Butterfly Effect,2004,113,"Drama,Sci-Fi,Thriller",Eric Bress,7.6
+953,I Am Sam,2001,132,Drama,Jessie Nelson,7.6
+954,Batoru rowaiaru,2000,114,"Action,Adventure,Drama",Kinji Fukasaku,7.6
+955,The Royal Tenenbaums,2001,110,"Comedy,Drama",Wes Anderson,7.6
+956,Y tu mamá también,2001,106,Drama,Alfonso Cuarón,7.6
+957,Harry Potter and the Sorcerer's Stone,2001,152,"Adventure,Family,Fantasy",Chris Columbus,7.6
+958,The Others,2001,101,"Horror,Mystery,Thriller",Alejandro Amenábar,7.6
+959,Enemy at the Gates,2001,131,"Drama,History,War",Jean-Jacques Annaud,7.6
+960,Traffic,2000,147,"Crime,Drama,Thriller",Steven Soderbergh,7.6
+961,Minority Report,2002,145,"Action,Crime,Mystery",Steven Spielberg,7.6
+962,American Psycho,2000,101,"Comedy,Crime,Drama",Mary Harron,7.6
+963,The Thin Red Line,1998,170,"Drama,War",Terrence Malick,7.6
+964,Mulan,1998,88,"Animation,Adventure,Family",Tony Bancroft,7.6
+965,Fear and Loathing in Las Vegas,1998,118,"Adventure,Comedy,Drama",Terry Gilliam,7.6
+966,Dark City,1998,100,"Fantasy,Mystery,Sci-Fi",Alex Proyas,7.6
+967,Lost Highway,1997,134,"Mystery,Thriller",David Lynch,7.6
+968,Die Hard: With a Vengeance,1995,128,"Action,Adventure,Thriller",John McTiernan,7.6
+969,The Bridges of Madison County,1995,135,"Drama,Romance",Clint Eastwood,7.6
+970,Apollo 13,I 1995,140,"Adventure,Drama,History",Ron Howard,7.6
+971,Trois couleurs: Blanc,1994,92,"Comedy,Drama,Romance",Krzysztof Kieslowski,7.6
+972,Dazed and Confused,1993,102,Comedy,Richard Linklater,7.6
+973,My Cousin Vinny,1992,120,"Comedy,Crime",Jonathan Lynn,7.6
+974,Omohide poro poro,1991,118,"Animation,Drama,Romance",Isao Takahata,7.6
+975,Delicatessen,1991,99,"Comedy,Crime",Marc Caro,7.6
+976,The Hunt for Red October,1990,135,"Action,Adventure,Thriller",John McTiernan,7.6
+977,Home Alone,1990,103,"Comedy,Family",Chris Columbus,7.6
+978,The Godfather: Part III,1990,162,"Crime,Drama",Francis Ford Coppola,7.6
+979,When Harry Met Sally...,1989,95,"Comedy,Drama,Romance",Rob Reiner,7.6
+980,The Naked Gun: From the Files of Police Squad!,1988,85,"Comedy,Crime",David Zucker,7.6
+981,Withnail & I,1987,107,"Comedy,Drama",Bruce Robinson,7.6
+982,Lethal Weapon,1987,109,"Action,Crime,Thriller",Richard Donner,7.6
+983,Blood Simple,1984,99,"Crime,Drama,Thriller",Joel Coen,7.6
+984,Mad Max 2,1981,96,"Action,Adventure,Sci-Fi",George Miller,7.6
+985,The Warriors,1979,92,"Action,Crime,Thriller",Walter Hill,7.6
+986,The Muppet Movie,1979,95,"Adventure,Comedy,Family",James Frawley,7.6
+987,Escape from Alcatraz,1979,112,"Action,Biography,Crime",Don Siegel,7.6
+988,Watership Down,1978,91,"Animation,Adventure,Drama",Martin Rosen,7.6
+989,Close Encounters of the Third Kind,1977,138,"Drama,Sci-Fi",Steven Spielberg,7.6
+990,The Long Goodbye,1973,112,"Comedy,Crime,Drama",Robert Altman,7.6
+991,Giù la testa,1971,157,"Drama,War,Western",Sergio Leone,7.6
+992,Kelly's Heroes,1970,144,"Adventure,Comedy,War",Brian G. Hutton,7.6
+993,Where Eagles Dare,1968,158,"Action,Adventure,War",Brian G. Hutton,7.6
+994,The Jungle Book,1967,78,"Animation,Adventure,Family",Wolfgang Reitherman,7.6
+995,A Hard Day's Night,1964,87,"Comedy,Musical",Richard Lester,7.6
+996,Breakfast at Tiffany's,1961,115,"Comedy,Drama,Romance",Blake Edwards,7.6
+997,Giant,1956,201,"Drama,Western",George Stevens,7.6
+998,Shane,1953,118,"Drama,Western",George Stevens,7.6
+999,From Here to Eternity,1953,118,"Drama,Romance,War",Fred Zinnemann,7.6
+"1,000",Lifeboat,1944,97,"Drama,War",Alfred Hitchcock,7.6
